@@ -1,0 +1,2 @@
+This little program changes on start the default-playback device to the other installed playback device.
+This way you can switch between 2 output-soundcards easily without having to click through the 'Sounds and Multimedia' Control panel.
